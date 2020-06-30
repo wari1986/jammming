@@ -7,6 +7,11 @@ import PlayList from '../PlayList/PlayList';
 
 
 class App extends React.Component {
+	constructor(props){
+		super(props);
+		
+	}
+
 	render() {
 		return (
 			<div>
